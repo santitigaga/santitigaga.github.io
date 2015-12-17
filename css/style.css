@@ -53,7 +53,7 @@
 /* Icons */
 .icon-button i {
 	background: none;
-	color: white;
+	
 	height: 3.6rem;
 	left: 0;
 	line-height: 3.6rem;
@@ -67,18 +67,18 @@
 	z-index: 10;
 }
 .icon-button .icon-twitter  {
-	color: #4099ff !important;
+	color: #4099ff !important ;
 }
 .icon-button .icon-facebook {
-	color: #3B5998 !important;
+	color: #3B5998 !important ;
 }
 .icon-button .icon-google-plus {
-	color: #db5a3c !important;
+	color: #db5a3c !important ;
 }
 .icon-button:hover .icon-twitter,
 .icon-button:hover .icon-facebook,
 .icon-button:hover .icon-google-plus {
-	color: white;
+	color: white !important;
 }
 h5 {
     text-align: center;
